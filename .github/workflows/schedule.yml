@@ -2,7 +2,7 @@ name: 货币基金日报
 
 on:
   schedule:
-    - cron: '03 6 * * *'
+    - cron: '10 6 * * *'
   workflow_dispatch:
 
 jobs:
